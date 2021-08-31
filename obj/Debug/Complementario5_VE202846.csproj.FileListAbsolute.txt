@@ -1,0 +1,13 @@
+C:\Users\josue\OneDrive\Escritorio\Complementario5_VE202846\Complementario5_VE202846\bin\Debug\Complementario5_VE202846.exe.config
+C:\Users\josue\OneDrive\Escritorio\Complementario5_VE202846\Complementario5_VE202846\bin\Debug\Complementario5_VE202846.exe
+C:\Users\josue\OneDrive\Escritorio\Complementario5_VE202846\Complementario5_VE202846\bin\Debug\Complementario5_VE202846.pdb
+C:\Users\josue\OneDrive\Escritorio\Complementario5_VE202846\Complementario5_VE202846\obj\Debug\Complementario5_VE202846.csproj.AssemblyReference.cache
+C:\Users\josue\OneDrive\Escritorio\Complementario5_VE202846\Complementario5_VE202846\obj\Debug\Complementario5_VE202846.Form1.resources
+C:\Users\josue\OneDrive\Escritorio\Complementario5_VE202846\Complementario5_VE202846\obj\Debug\Complementario5_VE202846.Form2.resources
+C:\Users\josue\OneDrive\Escritorio\Complementario5_VE202846\Complementario5_VE202846\obj\Debug\Complementario5_VE202846.Properties.Resources.resources
+C:\Users\josue\OneDrive\Escritorio\Complementario5_VE202846\Complementario5_VE202846\obj\Debug\Complementario5_VE202846.csproj.GenerateResource.cache
+C:\Users\josue\OneDrive\Escritorio\Complementario5_VE202846\Complementario5_VE202846\obj\Debug\Complementario5_VE202846.csproj.CoreCompileInputs.cache
+C:\Users\josue\OneDrive\Escritorio\Complementario5_VE202846\Complementario5_VE202846\obj\Debug\Complementario5_VE202846.exe
+C:\Users\josue\OneDrive\Escritorio\Complementario5_VE202846\Complementario5_VE202846\obj\Debug\Complementario5_VE202846.pdb
+C:\Users\josue\OneDrive\Escritorio\Complementario5_VE202846\Complementario5_VE202846\obj\Debug\Complementario5_VE202846.Form3.resources
+C:\Users\josue\OneDrive\Escritorio\Complementario5_VE202846\Complementario5_VE202846\obj\Debug\Complementario5_VE202846.Form4.resources
